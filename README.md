@@ -1,1 +1,1 @@
-# Przetwarzanie-wizualizacje
+# Przetwarzanie-zbiorów-danych
